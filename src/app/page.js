@@ -32,7 +32,7 @@ export default function Home() {
         }}
       >
         <h1 className="text-4xl sm:text-5xl font-bold text-white">
-          We are coder group
+          We are coder vghvhgh
         </h1>
 
         <button
